@@ -51,5 +51,5 @@ of the original license and be acredited to the original
 
 non-profit server clause: The contents of this mod MAY be used 
 on any server or in such settings as provided that the use of 
-said server or other setting does not change a fee or demand 
+said server or other setting does not charge a fee or demand 
 any other forms of financial restitutions or exchanges.
